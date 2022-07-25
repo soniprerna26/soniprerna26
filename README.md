@@ -28,7 +28,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Hackerrank and read tech articles.
+- :zap: In my free time, I read tech articles and solve problems on GeeksForGeeks.
 
 - :mailbox: How to reach me: **prernasoni2610@gmail.com**
    
