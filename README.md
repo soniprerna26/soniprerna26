@@ -23,7 +23,7 @@ Security Managed Services Analyst with 3+ years of hands-on experience in Cloud 
 
 ## Featured Project
 
-### [Azure Key Vault Expiry Automation](https://github.com/soniprerna26/azure-keyvault-expiry-alerts)
+### [Azure Key Vault Expiry Monitor](https://github.com/soniprerna26/azure-keyvault-expiry-monitor.git)
 `PowerShell` `Azure Az Module` `SMTP`
 
 - **Automated monitoring:** scans Key Vault secrets and certificates, calculates days remaining to expiry, and flags items within a configurable 30-day threshold
