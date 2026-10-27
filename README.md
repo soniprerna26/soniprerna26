@@ -1,7 +1,6 @@
 # Hi, I'm Prerna Soni 👋
 
-**Security Managed Services Analyst | Cloud, Network & Zero Trust Security | Jaipur, India**
-**Target role: Cloud Security Engineer**
+**Security Managed Services Analyst | Cloud, Network, Email & Zero Trust Security | Jaipur, India**
 
 ## About
 
@@ -47,10 +46,6 @@ B.Tech in Computer Science, Galgotias University (Aug 2019 – Jun 2023)
 ## Certifications
 
 - Oracle Cloud Infrastructure AI Foundations Associate
-
-## Currently Working On
-
-- Second cloud security automation project
 - Azure security certification (AZ-500 / SC-300)
 
 ## Connect
